@@ -1,5 +1,5 @@
 #### Open app
-[Ahri documentation](http://localhost:3000)
+[Ahri documentation](https://ahridoc.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
