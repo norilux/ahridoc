@@ -1,4 +1,4 @@
-####Open app
+#### Open app
 [Ahri documentation](http://localhost:3000)
 ## Available Scripts
 
